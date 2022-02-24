@@ -1,0 +1,67 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue_500</item>
+        <item name="colorPrimaryVariant">@color/blue_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/pink_200</item>
+        <item name="colorSecondaryVariant">@color/pink_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowDrawsSystemBarBackgrounds" tools:targetApi="lollipop">true</item>
+    </style>
+
+
+    <style name="Theme1" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#212121</item>
+        <item name="colorPrimaryVariant">#000000</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">#30E57E</item>
+    </style>
+
+    <style name="Theme2" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#F10000</item>
+        <item name="colorPrimaryDark">#6E0000</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">#F10000</item>
+    </style>
+
+    <style name="Theme3" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#79008E</item>
+        <item name="colorPrimaryDark">#5C006C</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">#79008E</item>
+    </style>
+
+    <style name="Theme4" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#009688</item>
+        <item name="colorPrimaryDark">#00655C</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">#009688</item>
+    </style>
+
+    <style name="Theme5" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#777777</item>
+        <item name="colorPrimaryDark">#303030</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">#777777</item>
+    </style>
+
+    <style name="Theme6" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#FF5722</item>
+        <item name="colorPrimaryDark">#D53300</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">#FF784D</item>
+    </style>
+
+    <style name="Theme7" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#E91E63</item>
+        <item name="colorPrimaryDark">#C80145</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">#FF3C7F</item>
+    </style>
+</resources>

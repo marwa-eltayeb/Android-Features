@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MultiColorThemes</string>
+    <string name="choosecolor">chooseColor</string>
+    <string name="go">Go</string>
+    <string name="blue">blue</string>
+    <string name="black">black</string>
+    <string name="red">red</string>
+    <string name="purple">purple</string>
+    <string name="green">green</string>
+    <string name="grey">grey</string>
+    <string name="orange">orange</string>
+    <string name="pink">pink</string>
+</resources>
